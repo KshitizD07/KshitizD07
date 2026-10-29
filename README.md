@@ -2,7 +2,7 @@
 
 > **Software Engineer & Builder** | Crafting autonomous multi-agent systems, deep-tech infrastructure, and collaborative developer platforms.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Cosmic--3D-6366F1?style=for-the-badge&logo=react)](https://kshitizdixit.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Cosmic--3D-6366F1?style=for-the-badge&logo=react)](https://kshitiz-dixit-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-KshitizD07-181717?style=for-the-badge&logo=github)](https://github.com/KshitizD07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kshitiz-dixit)
 
