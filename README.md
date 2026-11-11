@@ -18,7 +18,7 @@
   *AI-powered proof-of-work skill verification engine analyzing GitHub repositories to assemble optimized builder squads.*  
   * **Tech:** Node.js, Express, PostgreSQL, Prisma, Socket.IO, Google Gemini AI, Redis.
 
-* **[Intelli-Light 3.0 & Sentinel](https://github.com/KshitizD07/Intelli_Light)** (`Research / Defense Tech`)  
+* **[Intelli-Light 3.0 & Sentinel](https://github.com/KshitizD07/Intelli_Light)** (`Research`)  
   *Spatio-Temporal MARL adaptive traffic grid coordination paired with city-wide multi-camera ANPR tracking and closed-loop tactical intercept orchestration.*  
   * **Tech:** Python, FastAPI, PyTorch (GAT+LSTM), SUMO, TraCI, RapidFuzz, WebSockets, Leaflet.
 
